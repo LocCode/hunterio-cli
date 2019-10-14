@@ -1,5 +1,5 @@
 # hunterio-cli
-Hi! I'm @LocCodE and one of my friends asked me to make a simple script in Python
+Hi! I'm [@LocCode](https://twitter.com/loccode) and one of my friends asked me to make a simple script in Python
 which may help him to work with Hunter.io website.
 
 I started to practise programming in Python and as a result,
